@@ -1,0 +1,6 @@
+{
+  "global": {
+    "alt-u": "usage-meter.popover",
+    "alt-shift-u": "usage-meter.details"
+  }
+}

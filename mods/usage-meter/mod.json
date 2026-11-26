@@ -1,0 +1,9 @@
+{
+  "place": "none",
+  "title": "Uso e Custos",
+  "overlay": {
+    "kind": "dialog",
+    "width": 840,
+    "height": 616
+  }
+}

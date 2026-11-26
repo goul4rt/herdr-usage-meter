@@ -1,0 +1,8 @@
+# Runtime caches & generated state (do not commit personal usage data)
+mods/usage-meter/cost-cache.json
+mods/usage-meter/quota-cache.json
+mods/usage-meter/snapshot.json
+mods/usage-meter/gpui-kit.d.ts
+__pycache__/
+*.pyc
+.DS_Store
